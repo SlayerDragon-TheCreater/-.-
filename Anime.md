@@ -4,7 +4,7 @@
 | **Título**      | **Título Alternativo** | **Temporadas** | **Episódios Assistidos** | **Plataforma** | **Última Exibição** | **Nota (1–10)** | **Gêneros**                       |
 | --------------- | ---------------------- | -------------- | ------------------------ | -------------- | ------------------- | --------------- | --------------------------------- |
 | Hunter × Hunter | —                      | 1              | 46                       | Crunchyroll    | 05/2025             | —               | Ação; Aventura; Fantasia; Shounen |
-| To be Hero X    | —                      | 1              | 10                       | Crunchyroll    | 02/06/2025          | 10              | —                                 |
+| To be Hero X    | —                      | 1              | 13                       | Crunchyroll    | 02/06/2025          | 10              | —                                 |
 
 ---
 
